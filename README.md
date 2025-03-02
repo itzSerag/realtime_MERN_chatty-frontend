@@ -75,7 +75,12 @@ The following environment variables are required for the frontend:
 
 ## 📱 Screenshots
 
-[Add your application screenshots here]
+![Login Screen](./public/readme/Screenshot%20From%202025-03-02%2016-10-17.png)
+![Home Screen](./public/readme/Screenshot%20From%202025-03-02%2016-11-52.png)
+![Profile Screen](./public/readme/Screenshot%20From%202025-03-02%2016-11-57.png)
+![Settings Screen](./public/readme/Screenshot%20From%202025-03-02%2016-12-05.png)
+![Chatting Screen](./public/readme/Screenshot%20From%202025-03-02%2016-12-13.png)
+![Chatting Screen-2](./public/readme/Screenshot%20From%202025-03-02%2016-17-24.png)
 
 ## 🌟 Features in Detail
 
